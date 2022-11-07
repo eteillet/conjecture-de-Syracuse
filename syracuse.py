@@ -27,8 +27,8 @@ if __name__ == "__main__":
     try:
         param = json.load(open("args.json", "rb"))
         numbers = param["numbers"]
-        if not all(x > 2 for x in numbers):
-            raise ValueError("Error: value < 2")
+        if not all(2 < x <= 100000 for x in numbers):
+            raise ValueError("Error: value < 2 or value > 100000")
         if len(numbers) > 10:
             raise ValueError("Error: max number of values = 10")
         numbers.sort()
