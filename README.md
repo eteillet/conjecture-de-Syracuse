@@ -2,7 +2,7 @@
 
 La conjecture de Syracuse est l'hypothèse mathématique selon laquelle la suite de Syracuse de n'importe quel entier strictement positif atteint 1. Ce programme permet de constater cette simple mais mystérieuse théorie.
 
-######  Il n'y a pas réellement d'objectif scientifique, il a surtout permis de prolonger et approfondir une discussion avec un enfant de 8 ans (très) curieux et de vulgariser cette théorie. Un graphique vaut parfois mieux que les mots d'un papa!
+Il n'y a pas réellement d'objectif scientifique, il a surtout permis de prolonger et approfondir une discussion avec un enfant de 8 ans (très) curieux et de vulgariser cette théorie. Un graphique vaut parfois mieux que les mots d'un papa!
 
 ---
 ##### Le principe est simple, pour tout entier strictement positif:
